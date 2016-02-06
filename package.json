@@ -1,0 +1,24 @@
+{
+  "name": "eslint-rules",
+  "version": "1.0.0",
+  "description": "Cross-project ESLint rules to enforce our ES2015 style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airware/eslint-rules.git"
+  },
+  "keywords": [
+    "ESLint",
+    "Rules",
+    "ES2015"
+  ],
+  "author": "Eric Johnson <edj.boston@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airware/eslint-rules/issues"
+  },
+  "homepage": "https://github.com/airware/eslint-rules#readme"
+}

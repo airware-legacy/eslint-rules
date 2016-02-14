@@ -1,6 +1,6 @@
 {
   "name": "eslint-rules",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Cross-project ESLint rules to enforce our ES2015 style.",
   "main": "index.js",
   "scripts": {

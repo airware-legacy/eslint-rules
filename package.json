@@ -4,7 +4,7 @@
   "description": "Cross-project ESLint rules to enforce our ES2015 style.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp lint"
   },
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 {
   "name": "@airware/eslint-rules",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Cross-project ESLint rules to enforce our ES2015 style.",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/airware/eslint-rules/issues"
   },
-  "homepage": "https://github.com/airware/eslint-rules#readme"
+  "homepage": "https://github.com/airware/eslint-rules#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-david": "^0.4.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-sequence": "^0.4.5",
+    "should": "^8.2.2"
+  }
 }
